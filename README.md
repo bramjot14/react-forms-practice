@@ -24,7 +24,7 @@ It demonstrates how to work with controlled inputs using React state.
 - JSX
 
 ## 📸 Output
-A simple form that greets the user by name as they type.
-<img width="336" height="207" alt="image" src="https://github.com/user-attachments/assets/74e383c9-077e-4899-b38f-fa32c0c41b11" />
+- A simple form that greets the user by name as they type.
+- <img width="336" height="207" alt="image" src="https://github.com/user-attachments/assets/74e383c9-077e-4899-b38f-fa32c0c41b11" />
 
 This project is part of my ongoing **Full Stack Web Development learning journey**.
